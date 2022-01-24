@@ -1,0 +1,36 @@
+C:\Users\jolaw\source\repos\Products\ProductsData\bin\Debug\net5.0\ProductsData.deps.json
+C:\Users\jolaw\source\repos\Products\ProductsData\bin\Debug\net5.0\ProductsData.dll
+C:\Users\jolaw\source\repos\Products\ProductsData\bin\Debug\net5.0\ref\ProductsData.dll
+C:\Users\jolaw\source\repos\Products\ProductsData\bin\Debug\net5.0\ProductsData.pdb
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.csproj.AssemblyReference.cache
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.AssemblyInfoInputs.cache
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.AssemblyInfo.cs
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.dll
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ref\ProductsData.dll
+C:\Users\jolaw\source\repos\Products\ProductsData\obj\Debug\net5.0\ProductsData.pdb
+C:\Users\jacke\Desktop\Products\ProductsData\bin\Debug\net5.0\ProductsData.deps.json
+C:\Users\jacke\Desktop\Products\ProductsData\bin\Debug\net5.0\ProductsData.dll
+C:\Users\jacke\Desktop\Products\ProductsData\bin\Debug\net5.0\ref\ProductsData.dll
+C:\Users\jacke\Desktop\Products\ProductsData\bin\Debug\net5.0\ProductsData.pdb
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.AssemblyInfo.cs
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.dll
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ref\ProductsData.dll
+C:\Users\jacke\Desktop\Products\ProductsData\obj\Debug\net5.0\ProductsData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\bin\Debug\net5.0\ProductsData.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\bin\Debug\net5.0\ProductsData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\bin\Debug\net5.0\ref\ProductsData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\bin\Debug\net5.0\ProductsData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ref\ProductsData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsData\obj\Debug\net5.0\ProductsData.pdb

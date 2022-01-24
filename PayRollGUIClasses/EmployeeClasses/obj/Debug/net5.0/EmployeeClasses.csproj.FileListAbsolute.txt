@@ -1,0 +1,12 @@
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\bin\Debug\net5.0\EmployeeClasses.deps.json
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\bin\Debug\net5.0\EmployeeClasses.dll
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\bin\Debug\net5.0\ref\EmployeeClasses.dll
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\bin\Debug\net5.0\EmployeeClasses.pdb
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.csproj.AssemblyReference.cache
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.AssemblyInfoInputs.cache
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.AssemblyInfo.cs
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.csproj.CoreCompileInputs.cache
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.dll
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\ref\EmployeeClasses.dll
+C:\Users\jacke\source\repos\PayRollGUIClasses\EmployeeClasses\obj\Debug\net5.0\EmployeeClasses.pdb

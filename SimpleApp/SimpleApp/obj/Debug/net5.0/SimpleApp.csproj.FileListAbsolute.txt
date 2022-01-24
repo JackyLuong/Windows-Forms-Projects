@@ -1,0 +1,16 @@
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\SimpleApp.exe
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\SimpleApp.deps.json
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\SimpleApp.runtimeconfig.json
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\SimpleApp.runtimeconfig.dev.json
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\SimpleApp.dll
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\ref\SimpleApp.dll
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\bin\Debug\net5.0\SimpleApp.pdb
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.AssemblyInfo.cs
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.dll
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\ref\SimpleApp.dll
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.pdb
+C:\Users\jacke\source\repos\SimpleApp\SimpleApp\obj\Debug\net5.0\SimpleApp.genruntimeconfig.cache

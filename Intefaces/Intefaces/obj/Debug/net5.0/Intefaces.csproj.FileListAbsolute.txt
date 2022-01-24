@@ -1,0 +1,15 @@
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\Intefaces.exe
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\Intefaces.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\Intefaces.runtimeconfig.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\Intefaces.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\Intefaces.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\ref\Intefaces.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\bin\Debug\net5.0\Intefaces.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\ref\Intefaces.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Intefaces\Intefaces\obj\Debug\net5.0\Intefaces.genruntimeconfig.cache

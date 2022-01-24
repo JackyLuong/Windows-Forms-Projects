@@ -1,0 +1,16 @@
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\SimpleClass.exe
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\SimpleClass.deps.json
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\SimpleClass.runtimeconfig.json
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\SimpleClass.runtimeconfig.dev.json
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\SimpleClass.dll
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\ref\SimpleClass.dll
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\bin\Debug\net5.0\SimpleClass.pdb
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.csproj.AssemblyReference.cache
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.AssemblyInfoInputs.cache
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.AssemblyInfo.cs
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.dll
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\ref\SimpleClass.dll
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.pdb
+C:\Users\jolaw\source\repos\SimpleClass\SimpleClass\obj\Debug\net5.0\SimpleClass.genruntimeconfig.cache

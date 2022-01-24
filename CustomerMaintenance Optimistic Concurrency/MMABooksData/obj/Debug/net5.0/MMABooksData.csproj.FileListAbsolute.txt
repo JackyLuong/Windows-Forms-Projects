@@ -1,0 +1,30 @@
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\bin\Debug\net5.0\MMABooksData.deps.json
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\bin\Debug\net5.0\MMABooksData.runtimeconfig.json
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\bin\Debug\net5.0\MMABooksData.runtimeconfig.dev.json
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\bin\Debug\net5.0\MMABooksData.dll
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\bin\Debug\net5.0\ref\MMABooksData.dll
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\bin\Debug\net5.0\MMABooksData.pdb
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.csproj.AssemblyReference.cache
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.AssemblyInfoInputs.cache
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.AssemblyInfo.cs
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.dll
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\ref\MMABooksData.dll
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.pdb
+C:\Users\jolaw\source\repos\CustomerMaintenance\MMABooksData\obj\Debug\net5.0\MMABooksData.genruntimeconfig.cache
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\bin\Debug\net5.0\MMABooksData.deps.json
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\bin\Debug\net5.0\MMABooksData.runtimeconfig.json
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\bin\Debug\net5.0\MMABooksData.runtimeconfig.dev.json
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\bin\Debug\net5.0\MMABooksData.dll
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\bin\Debug\net5.0\ref\MMABooksData.dll
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\bin\Debug\net5.0\MMABooksData.pdb
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.csproj.AssemblyReference.cache
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.AssemblyInfoInputs.cache
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.AssemblyInfo.cs
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.dll
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\ref\MMABooksData.dll
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.pdb
+C:\Users\jolaw\Downloads\CustomerMaintenance Optimistic Concurrency\MMABooksData\obj\Debug\net5.0\MMABooksData.genruntimeconfig.cache

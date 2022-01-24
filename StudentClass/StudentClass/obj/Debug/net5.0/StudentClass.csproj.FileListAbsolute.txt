@@ -1,0 +1,16 @@
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\StudentClass.exe
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\StudentClass.deps.json
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\StudentClass.runtimeconfig.json
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\StudentClass.runtimeconfig.dev.json
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\StudentClass.dll
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\ref\StudentClass.dll
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\bin\Debug\net5.0\StudentClass.pdb
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.csproj.AssemblyReference.cache
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.AssemblyInfoInputs.cache
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.AssemblyInfo.cs
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.csproj.CoreCompileInputs.cache
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.dll
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\ref\StudentClass.dll
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.pdb
+D:\Dev\SAIT\OOSD\RapidAppDev\Day5\StudentClass\StudentClass\StudentClass\obj\Debug\net5.0\StudentClass.genruntimeconfig.cache

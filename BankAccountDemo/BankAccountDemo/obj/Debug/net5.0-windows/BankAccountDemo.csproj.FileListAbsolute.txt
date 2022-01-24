@@ -1,0 +1,42 @@
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.exe
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.deps.json
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.runtimeconfig.json
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.runtimeconfig.dev.json
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.dll
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\ref\BankAccountDemo.dll
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.pdb
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.AssemblyReference.cache
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.frmBankAccount.resources
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.GenerateResource.cache
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.AssemblyInfoInputs.cache
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.AssemblyInfo.cs
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.CoreCompileInputs.cache
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.dll
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\ref\BankAccountDemo.dll
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.pdb
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.genruntimeconfig.cache
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankData.dll
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankData.pdb
+C:\Users\jacke\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.CopyComplete
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.exe
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.runtimeconfig.json
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\ref\BankAccountDemo.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankAccountDemo.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\bin\Debug\net5.0-windows\BankData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.frmBankAccount.resources
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.GenerateResource.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.csproj.CopyComplete
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\ref\BankAccountDemo.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\BankAccountDemo\BankAccountDemo\obj\Debug\net5.0-windows\BankAccountDemo.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.exe
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.deps.json
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.runtimeconfig.json
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.runtimeconfig.dev.json
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.dll
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ref\ProductsGUI.dll
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.pdb
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.AssemblyReference.cache
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.frmProducts.resources
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.GenerateResource.cache
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.AssemblyInfoInputs.cache
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.AssemblyInfo.cs
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.dll
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ref\ProductsGUI.dll
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.pdb
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.genruntimeconfig.cache
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsData.dll
+C:\Users\jolaw\source\repos\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsData.pdb
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.frmAddProduct.resources
+C:\Users\jolaw\source\repos\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.CopyComplete
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.exe
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.deps.json
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.runtimeconfig.json
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.dll
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ref\ProductsGUI.dll
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.pdb
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsData.dll
+C:\Users\jacke\Desktop\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsData.pdb
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.frmAddProduct.resources
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.frmProducts.resources
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.GenerateResource.cache
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.AssemblyInfo.cs
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.CopyComplete
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.dll
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ref\ProductsGUI.dll
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.pdb
+C:\Users\jacke\Desktop\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.genruntimeconfig.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.exe
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.runtimeconfig.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.runtimeconfig.dev.json
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ref\ProductsGUI.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsGUI.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\bin\Debug\net5.0-windows\ProductsData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.frmAddProduct.resources
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.frmProducts.resources
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.GenerateResource.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.csproj.CopyComplete
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ref\ProductsGUI.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\Products\ProductsGUI\obj\Debug\net5.0-windows\ProductsGUI.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\bin\Debug\net5.0\ProductData.deps.json
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\bin\Debug\net5.0\ProductData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\bin\Debug\net5.0\ref\ProductData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\bin\Debug\net5.0\ProductData.pdb
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.csproj.AssemblyReference.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.AssemblyInfoInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.AssemblyInfo.cs
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ref\ProductData.dll
+C:\Users\jacke\Desktop\C# SAIT 2022\ProductsGUI\ProductData\obj\Debug\net5.0\ProductData.pdb
